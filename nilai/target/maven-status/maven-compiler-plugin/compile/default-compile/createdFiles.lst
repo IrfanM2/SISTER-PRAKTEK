@@ -1,8 +1,0 @@
-com\irfan\nilai\vo\Mahasiswa.class
-com\irfan\nilai\controller\NilaiController.class
-com\irfan\nilai\NilaiApplication.class
-com\irfan\nilai\entity\Nilai.class
-com\irfan\nilai\service\NilaiService.class
-com\irfan\nilai\repository\NilaiRepository.class
-com\irfan\nilai\vo\Matakuliah.class
-com\irfan\nilai\vo\ResponseTemplate.class
